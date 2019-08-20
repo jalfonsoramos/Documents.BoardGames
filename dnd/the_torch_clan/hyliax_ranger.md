@@ -1,5 +1,12 @@
 ﻿# Character - Hyliax, ranger
 
+## Index
+* [Backstore](#backstore)
+* [Physical description](#physical-description)
+* [Personality traits](#personality-traits)
+* [Ideals](#ideals)
+* [Flaws](#flaws)
+
 ## Backstory
 The past of the elf Hyliax is covered by a mist of mystery. He was discovered by the wood elves in the depths of the dark forest without memory of his past life. Although the only clue from his past are the tattoos on their face, no one has been able to solve the mystery.
 
