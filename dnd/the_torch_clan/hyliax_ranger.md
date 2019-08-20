@@ -22,4 +22,18 @@ Hyliax earn his place between the tribe of the wood elves thanks to his abilitie
 * There's nothing I like more than a good mystery.
 * I have a crude sense of humor.
 
+## Ideals
+* Independence. I am a free spirit--no one tells me what to do.
+* Freedom. Chains are meant to be broken, as are those who would forge them.
+* Tradition. The stories, legends, and songs of the past must never be forgotten.
+* Destiny. Nothing and no one can steer me away from my higher calling.
+* Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking.
+* Might. In life as in war, the stronger force wins.
+* Bonds
+* Something important was taken from me, and I aim to steal it back.
+* My family, clan, or tribe is the most important thing in my life, even when they are far from me.
+
+## Flaws
+I will never fully trust anyone other than myself.
+I am suspicious of strangers and suspect the worst of them.
 
