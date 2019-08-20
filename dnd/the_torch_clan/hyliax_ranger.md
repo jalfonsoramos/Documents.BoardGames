@@ -1,7 +1,7 @@
 ﻿# Character - Hyliax, ranger
 
 ## Index
-* [Backstore](#backstore)
+* [Backstory](#backstory)
 * [Physical description](#physical-description)
 * [Personality traits](#personality-traits)
 * [Ideals](#ideals)
