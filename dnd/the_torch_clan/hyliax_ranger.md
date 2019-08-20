@@ -21,7 +21,7 @@
       - [Hail of Thorns](#hail-of-thorns)
 
 ## Backstory
->_The past of the elf Hyliax is covered by a mist of mystery. He was discovered by the wood elves in the depths of the dark forest without memory of his past life. Although the only clue from his past are the tattoos on their face, no one has been able to solve the mystery._
+>_The past of the elf Hyliax it's covered by a mysterious mist. He was discovered by the wood elves in the depths of the dark forest without memory of his past life. Although the only clue from his past are the tattoos on their face, no one has been able to solve the mystery._
 > 
 >_Hyliax earn his place between the tribe of the wood elves thanks to his abilities as ranger. He learned the lethal art of the fight with dual swords and the accurate skill of the bow and arrow thanks to the ancient ranger Feanor._
 
@@ -104,7 +104,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd or 4th leve
 * Components: V
 * Duration: Conc. Up to 1 minute
 
-The next time you hit a creature with a weapon attack, the target must succeed on a Strength save or be restrained until the spell ends. A Large or bigger creature has advantage on this save.
+The next time you hit a creature with a weapon attack, the target must succeed on a Strength save or be restrained until the spell ends. A large or bigger creature has advantage on this save.
 
 While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. The creature restrained or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
 
