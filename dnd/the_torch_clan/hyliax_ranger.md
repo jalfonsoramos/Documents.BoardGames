@@ -99,8 +99,8 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd or 4th leve
 #### Ensnaring Strike
 
 * 1 conjuration
-*Casting Time: 1 bonus action
-*Range: Self
+* Casting Time: 1 bonus action
+* Range: Self
 * Components: V
 * Duration: Conc. Up to 1 minute
 
@@ -114,7 +114,7 @@ At Higher Levels: The damage increases by 1d6 for each slot level above 1st.
 
 * 1 conjuration
 * Casting Time: 1 bonus action
-*Range: Self
+* Range: Self
 * Components: V
 * Duration: Conc. Up to 1 minute
 
