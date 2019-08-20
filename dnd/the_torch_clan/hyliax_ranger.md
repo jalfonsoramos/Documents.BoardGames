@@ -1,4 +1,6 @@
-﻿## Backstory
+﻿# Character - Hyliax, ranger
+
+## Backstory
 The past of the elf Hyliax is covered by a mist of mystery. He was discovered by the wood elves in the depths of the dark forest without memory of his past life. Although the only clue from his past are the tattoos on their face, no one has been able to solve the mystery.
 
 Hyliax earn his place between the tribe of the wood elves thanks to his abilities as ranger. He learned the lethal art of the fight with dual swords and the accurate skill of the bow and arrow thanks to the ancient ranger Feanor.
