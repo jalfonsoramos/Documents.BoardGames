@@ -34,6 +34,6 @@ Hyliax earn his place between the tribe of the wood elves thanks to his abilitie
 * My family, clan, or tribe is the most important thing in my life, even when they are far from me.
 
 ## Flaws
-I will never fully trust anyone other than myself.
-I am suspicious of strangers and suspect the worst of them.
+* I will never fully trust anyone other than myself.
+* I am suspicious of strangers and suspect the worst of them.
 
