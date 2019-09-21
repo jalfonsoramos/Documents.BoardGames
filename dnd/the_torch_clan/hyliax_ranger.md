@@ -127,5 +127,7 @@ At Higher Levels: The damage increases by 1d10 for each slot level above 1st, to
 Extra Attack
 At 5th level, you are one of the fastest shooters around, when you take the attack action you gain a 2nd attack
 
+Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+
 Sharpest of Shooters
 At 6th level. You're one the best snipers around; you're both accurate and deadly. You gain the Sharpshooter feat. If you already had this feat, you may gain a new feat in its place. Additionally, instead of taking a -5 to your attack roll to add +10 to your damage roll, you take -2 to the attack roll instead.
