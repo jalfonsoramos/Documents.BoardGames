@@ -19,6 +19,12 @@
       - [Hunter's Mark](#hunters-mark)
       - [Ensnaring Strike](#ensnaring-strike)
       - [Hail of Thorns](#hail-of-thorns)
+    - [Spells level 2](#spells-level-2)
+      - [Spike Growth](#spike-growth)
+  - [Extras](#extras)
+    - [Extra Attack](#extra-attack)
+    - [Sharpshooter feat](#sharpshooter-feat)
+    - [Sharpest of Shooters](#sharpest-of-shooters)
 
 ## Backstory
 >_The past of the elf Hyliax it's covered by a mysterious mist. He was discovered by the wood elves in the depths of the dark forest without memory of his past life. Although the only clue from his past are the tattoos on their face, no one has been able to solve the mystery._
@@ -122,12 +128,26 @@ The next time you hit with a ranged weapon attack, in addition to the normal eff
 
 At Higher Levels: The damage increases by 1d10 for each slot level above 1st, to a maximum of 6d10.
 
--------------
+### Spells level 2
 
-Extra Attack
+#### Spike Growth
+
+* Casting time: 1 Action
+* Range: 150 feet
+* Components: V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
+* Duration: Concentration, up to 10 minutes
+
+The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
+
+The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+
+## Extras
+
+### Extra Attack
 At 5th level, you are one of the fastest shooters around, when you take the attack action you gain a 2nd attack
 
-Sharpshooter feat. Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+### Sharpshooter feat
+Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
-Sharpest of Shooters
+### Sharpest of Shooters
 At 6th level. You're one the best snipers around; you're both accurate and deadly. You gain the Sharpshooter feat. If you already had this feat, you may gain a new feat in its place. Additionally, instead of taking a -5 to your attack roll to add +10 to your damage roll, you take -2 to the attack roll instead.
