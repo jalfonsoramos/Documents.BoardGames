@@ -121,3 +121,11 @@ At Higher Levels: The damage increases by 1d6 for each slot level above 1st.
 The next time you hit with a ranged weapon attack, in addition to the normal effects of the attack, the target and each creature within 5 feet of it must make a Dexterity save. A creature takes 1d10 piercing damage on a failed save, or half as much on a success.
 
 At Higher Levels: The damage increases by 1d10 for each slot level above 1st, to a maximum of 6d10.
+
+-------------
+
+Extra Attack
+At 5th level, you are one of the fastest shooters around, when you take the attack action you gain a 2nd attack
+
+Sharpest of Shooters
+At 6th level. You're one the best snipers around; you're both accurate and deadly. You gain the Sharpshooter feat. If you already had this feat, you may gain a new feat in its place. Additionally, instead of taking a -5 to your attack roll to add +10 to your damage roll, you take -2 to the attack roll instead.
