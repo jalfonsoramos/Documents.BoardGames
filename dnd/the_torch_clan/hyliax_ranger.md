@@ -183,6 +183,3 @@ Before you make an attack with a ranged weapon that you are proficient with, you
 
 ### Sharpest of Shooters
 At 6th level. You're one the best snipers around; you're both accurate and deadly. You gain the Sharpshooter feat. If you already had this feat, you may gain a new feat in its place. Additionally, instead of taking a -5 to your attack roll to add +10 to your damage roll, you take -2 to the attack roll instead.
-
-Favored Enemy and Natural explorer improvement
-Monstrosity and Forest
