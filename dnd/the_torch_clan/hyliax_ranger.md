@@ -85,8 +85,8 @@ You are particularly familiar with one type of natural environment and are adept
 
 When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
-Level 1, Swamp
-Level 6, Forest
+- Level 1, Swamp
+- Level 6, Forest
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
