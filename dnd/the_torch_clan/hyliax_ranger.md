@@ -29,9 +29,9 @@
     - [Sharpest of Shooters](#sharpest-of-shooters)
 
 ## Backstory
->_The past of the elf Hyliax it's covered by a mysterious mist. He was discovered by the wood elves in the depths of the dark forest without memory of his past life. Although the only clue from his past are the tattoos on their face, no one has been able to solve the mystery._
+>_The past of the elf Hyliax is shrouded in a mysterious mist. He was discovered by the wood elves in the depths of the dark forest without any memory of his past life. Although the only clues from his past are the tattoos on his face, no one has been able to solve the mystery.._
 > 
->_Hyliax earn his place between the tribe of the wood elves thanks to his abilities as ranger. He learned the lethal art of the fight with dual swords and the accurate skill of the bow and arrow thanks to the ancient ranger Feanor._
+>_Hyliax earned his place within the tribe of the wood elves thanks to his abilities as a ranger. He mastered the lethal art of dual sword fighting and the precise skills of bow and arrow under the tutelage of the ancient ranger Feanor._
 
 ## Physical description
 * 1.73 meters
