@@ -1,6 +1,6 @@
-# Inicio 🐉🎲
+#  🎲 Inicio 🎲
 
-## Personajes 
+## Personajes 🐉 
   - [Feyre Wizard]()
   - [Reckoner Cleric]()
   - [Orion Monk]()

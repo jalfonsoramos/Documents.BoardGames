@@ -1,1 +1,1 @@
-MyBoardGamesDocs
+[Ver Wiki](https://jalfonsoramos.github.io/MyBoardGamesDocs/)
