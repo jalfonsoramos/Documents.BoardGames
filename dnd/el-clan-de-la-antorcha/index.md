@@ -6,5 +6,5 @@
   - [Orion Monk]()
   - [Khronos Paladin]()
   - [Daenmin Druid]()
-  - [Hyliax Ranger](/dnd/el-clan-de-la-antorcha/personajes/hyliax_ranger.md)
-  - [Hyliax Barbarian](/dnd/el-clan-de-la-antorcha/personajes/hyliax_barbarian.md)
+  - [Hyliax Ranger](personajes/hyliax_ranger.md)
+  - [Hyliax Barbarian](personajes/hyliax_barbarian.md)
