@@ -1,6 +1,13 @@
-Home
-============
+# My Board Games WIKI
 
-- D&D / The Torch Clan / [Ranger](/dnd/el-clan-de-la-antorcha/hyliax_ranger.md)
-
-- D&D / The Torch Clan / [Barbarian](/dnd/el-clan-de-la-antorcha/hyliax_barbarian.md)
+## El Clan de la Antorcha 
+ 
+- Personajes 
+  - [Feyre Wizard]()
+  - [Reckoner Cleric]()
+  - [Orion Monk]()
+  - [Khronos Paladin]()
+  - [Daenmin Druid]()
+  - [Hyliax Ranger](/dnd/el-clan-de-la-antorcha/hyliax_ranger.md)
+  - [Hyliax Barbarian](/dnd/el-clan-de-la-antorcha/hyliax_barbarian.md)
+- Recapitulaciones
