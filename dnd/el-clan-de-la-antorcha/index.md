@@ -1,4 +1,6 @@
-# Wiki
+# El Clan de la Antorcha (Wiki) 🐉🎲
+
+Este es el wiki de la campaña de El Clan de la Antorcha.
 
 ## Personajes 
   - [Feyre Wizard]()
