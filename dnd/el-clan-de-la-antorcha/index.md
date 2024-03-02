@@ -1,6 +1,4 @@
-# El Clan de la Antorcha - Wiki
-
-- Personajes 
+## Personajes 
   - [Feyre Wizard]()
   - [Reckoner Cleric]()
   - [Orion Monk]()
