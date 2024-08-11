@@ -1,1 +1,1 @@
-[Ver Wiki](https://jalfonsoramos.github.io/MyBoardGamesDocs/)
+[Ver pagina](https://jalfonsoramos.github.io/el-clan-de-la-antorcha)
